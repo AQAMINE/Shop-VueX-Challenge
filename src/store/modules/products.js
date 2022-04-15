@@ -23,6 +23,13 @@ export default {
                     description: 'May be partially expired when it arrives but at least it is cheap!',
                     price: 6.99,
                 },
+                {
+                    id: 'p4',
+                    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/IPhone7.jpg/180px-IPhone7.jpg',
+                    title: 'Iphone 7',
+                    description: 'The iPhone 7 unboxed 32gb set (Ma silver version)',
+                    price: 699.99,
+                }
             ],
         };
     },
